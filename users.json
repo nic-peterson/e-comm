@@ -1,5 +1,7 @@
 [
-    {
-        "email": "nic.pete@gmail.com"
-    }
+  {
+    "email": "nic.pete@gmail.com",
+    "password": "pw1234",
+    "id": "69947699"
+  }
 ]
